@@ -10,13 +10,16 @@ ArrowColor Black
 BorderColor Black
 }
 left to right direction
-actor P0 as "Человек"
+actor P0 as "Губка"
 actor M0 as "Инструмент"
-actor P as "Сборщик"
-actor M as "Отвертка"
-usecase A as "Собрать мебель"
+actor P as "Роберт Квадратные Штаны"
+actor M as "Фифи"
+actor F as "Плита"
+usecase A as "Приготовить крабсбургер"
 P — (A)
 (A) — M
+(A) — F
 P0 <|— P
 M —|> M0
+F —|> M0
 @enduml
