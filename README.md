@@ -35,4 +35,4 @@ Landing Page проекта - [TBD]
 
 [Отчет](https://docs.google.com/document/d/1dyh7KsaE6JYk48wx0WNBUXsTn0Znf94s/edit?usp=sharing&ouid=103492057215065050655&rtpof=true&sd=true)
 
-## Экзаменационный билет 7: [Билет](https://github.com/stankin/inet-2022/wiki/exam07)
+## Экзаменационный билет 15: [Билет](https://github.com/stankin/inet-2022/wiki/exam15)
